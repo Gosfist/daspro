@@ -10,5 +10,6 @@ public class soal1 {
 
     // output
         System.out.println("luas segitiga: "+luas);
+        System.out.println("luas baru: "+luas);
     }
 }
